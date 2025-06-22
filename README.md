@@ -8,7 +8,7 @@ Weather_Data_Pipeline_Airflow
 ![Folder Stucture](1.png)
 
 
-#Steps 
+# Steps 
 - create a Airflow folder
 - Navigate to the airflow folder
 - run below command to create a virtual environment
@@ -22,5 +22,5 @@ python -m venv Airflow
 - once the docker is running and the airflow containers are up we can see the dags created on the UI.
 - Please follow my youtube link to understand better.
 
-#prerequisites 
+# prerequisites 
 - Data Engineeer or software Engineer. 
