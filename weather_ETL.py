@@ -60,7 +60,7 @@ def run_openweather_etl_S3():
     "Content-Type" : "application/json" 
     }
     bucket_name = 'weather-project-gaurav'
-    appid="2e642a52f72d3a3de63372bd15347196" #add your appidkey
+    appid="" #add your appidkey
 
 
     for city in City:
